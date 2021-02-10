@@ -10,4 +10,5 @@ This is an Alfred workflow to do some simple char conversion.
 
 
 ## Download Link
-[CharConverter.zip](https://github.com/devilium/CharConverter/files/5956057/CharConverter.zip)
+[CharConverter.zip](https://github.com/devilium/CharConverter/files/5956113/CharConverter.zip)
+
