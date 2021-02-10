@@ -25,7 +25,7 @@
 	<key>createdby</key>
 	<string>Devilium</string>
 	<key>description</key>
-	<string>Input tool for simple unicode character conversion</string>
+	<string>An input tool for simple unicode character conversion</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -102,7 +102,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Too lazy to write</string>
+	<string>CharConverter: an input tool for simple unicode character conversion</string>
 	<key>uidata</key>
 	<dict>
 		<key>9B500F53-4041-4904-8162-015DEDE7DD46</key>
@@ -123,7 +123,7 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://devilium.net</string>
 </dict>
